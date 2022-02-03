@@ -1,0 +1,50 @@
+h1 {
+background-color: #9776EE;
+    border: dashed black 5px;
+    padding:5px;
+    margin:5px;
+  font-family: 'EB Garamond', serif;
+
+}
+.salad-img {
+    display:none;
+    height: 400px;
+    width:400px;
+    
+}
+.second-salad {
+    display:none;
+      height: 400px;
+    width:400px;
+}
+.lobster-img {
+    display:none;
+    height: 400px;
+    width:400px;
+}
+.second-lobster {
+    display:none;
+    height: 400px;
+    width:400px;
+}
+.third-lobster {
+        display:none;
+    height: 400px;
+    width:400px;
+}
+body {
+    border: dotted black 5px;
+    padding:5px;
+    margin:5px;
+    text-align:center;
+   
+    
+}
+.project {
+     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 50%);
+}
+img {
+        border: dashed black 5px;
+    padding:5px;
+    margin:5px;
+}
